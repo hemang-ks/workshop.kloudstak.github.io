@@ -1,1 +1,1 @@
-# workshop.kloudstak.github.io
+# KloudStak Workshops
